@@ -13,5 +13,3 @@ sites:
     url: https://eingreso.fce.uncu.edu.ar
   - name: Adistancia
     url: https://adistancia.fce.uncu.edu.ar
-    port: 80
-    check: "tcp-ping"
