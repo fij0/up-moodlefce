@@ -64,7 +64,7 @@
     "url": "https://eingreso.fce.uncu.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/eingreso.fce.uncu.edu.ar.ico",
     "slug": "ingreso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "98.77%",
     "uptimeWeek": "99.24%",
@@ -76,6 +76,7 @@
     "timeMonth": 1885,
     "timeYear": 1885,
     "dailyMinutesDown": {
+      "2025-11-19": 0,
       "2025-11-18": 18,
       "2025-11-17": 46,
       "2025-11-15": 13
