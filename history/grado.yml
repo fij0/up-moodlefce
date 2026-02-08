@@ -1,7 +1,7 @@
 url: https://moodle.fce.uncu.edu.ar
-status: down
-code: 503
-responseTime: 1124
-lastUpdated: 2026-02-08T12:35:15.506Z
+status: up
+code: 200
+responseTime: 1115
+lastUpdated: 2026-02-08T13:29:26.574Z
 startTime: 2025-10-26T00:18:57.526Z
 generator: Upptime <https://github.com/upptime/upptime>
