@@ -1,7 +1,7 @@
 url: https://eingreso.fce.uncu.edu.ar
-status: up
-code: 200
-responseTime: 1992
-lastUpdated: 2026-08-08T23:28:40.742Z
+status: down
+code: 500
+responseTime: 5674
+lastUpdated: 2026-08-09T02:21:38.426Z
 startTime: 2025-10-26T00:19:03.014Z
 generator: Upptime <https://github.com/upptime/upptime>
