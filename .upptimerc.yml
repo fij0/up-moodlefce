@@ -2,6 +2,11 @@
 owner: fij0 # Your GitHub organization or username, where this repository lives
 repo: up-moodlefce # The name of this repository
 
+# No se usan secrets por ahora (sin notificaciones ni auth en los sitios).
+# Lista vacía => los workflows generados no serializan toJson(secrets),
+# que es lo que GitHub Security retiene (hold) en los runs de Actions.
+secrets: []
+
 sites:
   - name: Grado
     url: https://moodle.fce.uncu.edu.ar
